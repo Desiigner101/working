@@ -10,5 +10,7 @@ public class main {
         // Print the result
         System.out.println("Result: " + result);
         //PAMATUUD NI GANA
+        //second commit ni gino
+        //sdashdajksdhakdkwdkawjdwad
     }
 }
